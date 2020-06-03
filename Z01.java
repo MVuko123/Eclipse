@@ -15,8 +15,6 @@ public class Z01 {
 			System.out.println(br2);
 		}else if(br3 >= br1 && br3 >= br2) {
 		    System.out.println(br3);
-		}else {
-			System.out.println("Brojevi su jednaki");
 		}
 	      
 	}
